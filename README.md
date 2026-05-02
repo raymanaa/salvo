@@ -1,6 +1,6 @@
 # Salvo — On-call incident copilot
 
-Portfolio project #6. Light-theme ops console that watches your alert firehose, clusters correlated alerts, proposes the top-three candidate root causes, and drafts the runbook.
+Light-theme ops console that watches your alert firehose, clusters correlated alerts, proposes the top-three candidate root causes, and drafts the runbook.
 
 Live: https://salvo.raymnz.com
 

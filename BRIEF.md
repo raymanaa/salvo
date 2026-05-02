@@ -1,6 +1,6 @@
 # Salvo — On-call incident copilot
 
-> Portfolio project #6. An agent that watches your alert stream and proposes the root cause before the second page.
+>  An agent that watches your alert stream and proposes the root cause before the second page.
 
 ## M0 — Design direction (LOCKED)
 
